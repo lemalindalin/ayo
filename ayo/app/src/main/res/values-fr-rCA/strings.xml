@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayo</string>
+    <string name="enter_your_email_address">Entrez votre email</string>
+    <string name="type_email_here">Votre mail</string>
+    <string name="type_your_password">Entrez votre password</string>
+    <string name="login">Conection</string>
+    <string name="your_profile">Votre profile</string>
+    <string name="your_name">Votre nom</string>
+    <string name="your_email">Votre mail</string>
+    <string name="enter_your_email">Entrez votre email</string>
+    <string name="your_picture">Votre photo</string>
+    <string name="click_the_button_above_to_take_a_picture">Cliquez le boutton ci dessus pour prendre une photo</string>
+</resources>
